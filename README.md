@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Ilham Pauzan 👋
 <!--
 Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Profession/Field] who loves [a few things you love related to your field]. Here's a bit more about me:
 
