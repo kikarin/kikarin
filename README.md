@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Profession/Fie
 ### Top Languages -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kikarin&layout=compact&theme=radical)
-
+<!--
 ### Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
