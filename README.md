@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<!--
 Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Profession/Field] who loves [a few things you love related to your field]. Here's a bit more about me:
 
 - 🔭 I’m currently working on [describe your current project or job].
@@ -11,10 +11,11 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Profession/Fie
 - 😄 Pronouns: [your pronouns].
 - ⚡ Fun fact: [share an interesting or fun fact about yourself].
 
-### My GitHub Stats
+### My GitHub Stats -->
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kikarin&show_icons=true&theme=radical)
-### Top Languages
+<!--
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kikarin&show_icons=true&theme=radical)
+### Top Languages -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kikarin&layout=compact&theme=radical)
 
