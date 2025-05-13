@@ -59,9 +59,7 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kikarin&theme=aura-dark" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kikarin&theme=aura-dark)](https://git.io/streak-stats)
 
 ---
 
