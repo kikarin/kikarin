@@ -1,33 +1,6 @@
 ## Hi, I'm Ilham Pauzan 👋
 
-Welcome to my GitHub profile! I’m a passionate **frontend developer** and **tech enthusiast** who loves building clean, responsive user interfaces and exploring the latest web technologies.
-
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on:  
-  Building interactive web experiences using **React.js**, **Tailwind CSS**, and **Next.js**.
-
-- 🌱 I’m currently learning:  
-  Advanced frontend architecture, **TypeScript**, and **Web Animations API**.
-
-- 👯 I’m open to collaborate on:  
-  Open source projects, UI/UX-centric apps, or anything involving creative frontend development.
-
-- 🤔 I’m looking for advice on:  
-  Best practices for scalability in large frontend applications and design system management.
-
-- 💬 Ask me about:  
-  React, Tailwind CSS, Laravel, REST API, or anything frontend/backend related.
-
-- 📫 Reach me at:  
-  [📧 Email](mailto:ilham.pauzan@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/ilham-pauzan) | [🌐 Portfolio](https://porto-zan.vercel.app)
-
-- ⚡ Fun fact:  
-  I love designing onboarding flows that feel like magic ✨
-
----
+Welcome to my GitHub profile! I’m a passionate **fullstack developer** and **tech enthusiast** who loves building clean, responsive user interfaces and exploring the latest technologies.
 
 ### 🧠 Tech Stack
 
