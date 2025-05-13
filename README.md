@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kikarin&theme=radical" alt="kikarin" />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=kikarin&theme=aura-dark)](https://git.io/streak-stats)" alt="kikarin" />
 </div>
 
 ## 🏆 GitHub Trophies
