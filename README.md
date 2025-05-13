@@ -54,17 +54,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kikarin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 Featured Projects
-
-- **[Project 1](link)** - Short description (Tech used)
-- **[Project 2](link)** - Short description (Tech used)
-- **[Project 3](link)** - Short description (Tech used)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](link)
-- [Post Title 2](link)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
 
