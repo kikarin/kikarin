@@ -47,9 +47,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikarin&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kikarin&theme=aura-dark" alt="GitHub Streak - kikarin" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kikarin&theme=aura-dark)](https://git.io/streak-stats)
 
 
 
