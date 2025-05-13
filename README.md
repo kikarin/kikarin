@@ -66,7 +66,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=kikarin&theme=radical&no-bg=true&no-frame=true&margin-w=15&exclude_achievements=Stars,Issues,PullRequest,Reviews" 
+    src="https://github-profile-trophy.vercel.app/?username=kikarin&theme=radical&no-bg=true&no-frame=true&margin-w=15&row=1&column=4" 
     alt="Trophies" 
   />
 </p>
