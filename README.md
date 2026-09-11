@@ -1,94 +1,392 @@
-<h1 align="center">Hi, I'm Ilham Pauzan 👋</h1>
-<h3 align="center">🚀 Fullstack Developer | Tech Enthusiast | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  I'm passionate about building scalable web applications, crafting beautiful UIs, and exploring cutting-edge technologies. 
-  I thrive on turning ideas into reality through code.
-</p>
+# 👋 Hey, I'm **Ilham Pauzan**
 
----
+### `Fullstack Developer` · `Software Engineer` · `Problem Solver`
 
-### 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems.;Laravel+%7C+React+%7C+Vue+%7C+Python+%7C+Flutter;From+ideas+to+production-ready+systems.;Always+learning.+Always+building." alt="Typing SVG" />
 
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js)
+<br>
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+<a href="https://porto-zan.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge" />
+</a>
+<a href="https://github.com/kikarin">
+<img src="https://img.shields.io/badge/💻_Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ilham-pauzan">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:milhampauzan@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-#### 📱 Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+<br><br>
 
-#### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<img src="https://komarev.com/ghpvc/?username=kikarin&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 
-#### 🧰 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kikarin&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikarin&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+```typescript
+const ilham = {
+  role: "Fullstack Developer",
+  location: "Indonesia 🇮🇩",
+
+  focus: [
+    "Web Applications",
+    "Backend & APIs",
+    "System Architecture",
+    "Mobile Applications"
+  ],
+
+  stack: [
+    "Laravel",
+    "React",
+    "Vue",
+    "Python",
+    "Flutter",
+    "PostgreSQL"
+  ],
+
+  exploring: [
+    "AI Integration",
+    "System Design",
+    "Cloud Architecture"
+  ],
+
+  philosophy: "Build useful things, solve real problems."
+};
+```
+
+I'm a **Fullstack Developer** who enjoys turning real-world problems into
+practical software solutions.
+
+I work across the stack — from designing interfaces and building APIs to
+database architecture, authentication, deployment, and production systems.
+
+> **I don't just write code. I build systems that people actually use.**
 
 ---
 
-### 🔥 GitHub Streak
+# ⚡ Tech Arsenal
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kikarin&theme=aura-dark" alt="GitHub Streak" /></a>
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,tailwind" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,go" />
+
+<br><br>
+
+### 📱 Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+
+<br><br>
+
+### 🧰 Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,vercel,linux,nginx" />
+
+</div>
+
 ---
 
-### 🏆 GitHub Trophies
+# 🚀 What I Build
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=kikarin&theme=radical&no-bg=true&no-frame=true&margin-w=15&row=1&column=4" 
-    alt="Trophies" 
-  />
-</p>
+<table>
+<tr>
+<td width="50%">
 
+### 🌐 Web Applications
+
+Scalable web platforms, dashboards,
+management systems, and public-facing applications.
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend & APIs
+
+REST APIs, authentication systems,
+database architecture, and third-party integrations.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Mobile Applications
+
+Cross-platform applications with Flutter
+and API-driven architectures.
+
+</td>
+
+<td width="50%">
+
+### 🏗️ Digital Systems
+
+Solutions for organizations, government services,
+businesses, and enterprise environments.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤝 Let's Connect
+# 💼 Featured Projects
 
-<p align="center">
-  <a href="mailto:ilham.pauzan@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ilham-pauzan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://porto-zan.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
+<div align="center">
+
+### 🏆 Aidara
+
+**Sports Branch Management Information System**
+
+A web & mobile platform for managing sports organizations,
+athletes, coaches, training programs, attendance, and performance.
+
+<br>
+
+<a href="https://github.com/kikarin/Aidara-Mobile">
+<img src="https://img.shields.io/badge/📱_Mobile_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://aidara.bogorkab.go.id">
+<img src="https://img.shields.io/badge/🌐_Live_Project-2563EB?style=for-the-badge" />
+</a>
+
+<br><br>
+
+`Laravel` `React` `Vue` `Flutter` `PostgreSQL`
+
+</div>
 
 ---
 
-### 💡 Fun Fact
+<div align="center">
 
-> ⚡ I once fixed a production bug while skydiving!  
-> (Okay, maybe not, but I do love solving problems in creative ways.)
+### 🏃 Dispora Athlete Management
+
+**Athlete & Sports Management Platform**
+
+Digital platform for managing athlete data,
+coaching activities, training programs, attendance,
+and performance tracking.
+
+<br>
+
+<a href="https://github.com/kikarin/Core_Atlet">
+<img src="https://img.shields.io/badge/💻_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+`Laravel` `Inertia.js` `Vue` `Nuxt` `PostgreSQL`
+
+</div>
 
 ---
 
-⭐️ From [kikarin](https://github.com/kikarin)
+<div align="center">
+
+### 🔐 Portal SSO Kabupaten Bogor
+
+**Centralized Single Sign-On Platform**
+
+A centralized authentication platform designed to provide
+unified access to multiple government applications through
+a single identity.
+
+<br>
+
+<a href="https://github.com/kikarin">
+<img src="https://img.shields.io/badge/💻_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+`Laravel` `OAuth 2.0` `Passport` `PostgreSQL` `Flutter`
+
+</div>
+
+---
+
+# 🌐 Project Showcase
+
+<div align="center">
+
+| Project                   |      Category      |             Stack            |
+| :------------------------ | :----------------: | :--------------------------: |
+| 🏆 **Aidara**             |  Sports Management |   Laravel · React · Flutter  |
+| 🔐 **Portal SSO**         |   Authentication   | Laravel · OAuth · PostgreSQL |
+| 🏃 **Dispora**            | Athlete Management |     Laravel · Vue · Nuxt     |
+| 🏢 **Government Systems** |   Public Services  |    Laravel · Vue · Flutter   |
+| 🤖 **AI Projects**        |   AI & Automation  |    Python · FastAPI · APIs   |
+
+<br>
+
+<a href="https://porto-zan.vercel.app">
+<img src="https://img.shields.io/badge/🌐_View_My_Full_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kikarin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikarin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=kikarin&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kikarin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kikarin&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kikarin/kikarin/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 🧠 Currently Exploring
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,ai" />
+
+<br><br>
+
+`AI Integration` · `System Design` · `API Architecture` · `Cloud`
+
+</div>
+
+---
+
+# 🌎 Find Me Around The Web
+
+<div align="center">
+
+<a href="https://github.com/kikarin">
+<img src="https://img.shields.io/badge/GitHub-@kikarin-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/kikarin?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://porto-zan.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ilham-pauzan">
+<img src="https://img.shields.io/badge/LinkedIn-Ilham_Pauzan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:milhampauzan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🎯 Developer Philosophy
+
+<div align="center">
+
+> ### "Good software isn't just about writing code."
+>
+> ### "It's about solving the right problem."
+
+<br>
+
+**Learn → Build → Break → Fix → Ship → Repeat.**
+
+</div>
+
+---
+
+# 🤝 Let's Build Something
+
+<div align="center">
+
+### Have an idea? Let's turn it into software. 🚀
+
+<br>
+
+<a href="https://porto-zan.vercel.app">
+<img src="https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/kikarin?tab=repositories">
+<img src="https://img.shields.io/badge/💻_EXPLORE_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ilham-pauzan">
+<img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:milhampauzan@gmail.com">
+<img src="https://img.shields.io/badge/📧_GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=120&section=footer" />
+
+</div>
