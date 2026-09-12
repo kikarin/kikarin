@@ -138,8 +138,7 @@ A centralized authentication platform providing unified access to multiple gover
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kikarin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikarin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://raw.githubusercontent.com/kikarin/kikarin/main/metrics.svg" alt="GitHub Metrics" />
 
 <img src="https://streak-stats.demolab.com?user=kikarin&theme=tokyonight&hide_border=true" />
 
